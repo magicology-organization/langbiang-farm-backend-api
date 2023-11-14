@@ -5,7 +5,7 @@ const app = express();
 
 // Database connection setup
 const connection = mysql.createConnection({
-  host: "database-1.cxvv1ga3c11l.us-east-1.rds.amazonaws.com",
+  host: "mahou-db.csu9y7b3a0hk.us-east-1.rds.amazonaws.com",
   user: "anisphia",
   password: "euphyllia",
   database: "test_db",
