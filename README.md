@@ -12,7 +12,7 @@ This repository contains the backend API for Langbiang Farm, built using Express
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langbiang-farm-backend-api.git
+git clone https://github.com/magicology-organization/langbiang-farm-backend-api.git
 cd langbiang-farm-backend-api
 ```
 
